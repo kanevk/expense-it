@@ -19,7 +19,7 @@ const AddExpensePage = () => {
 
       <iframe
         className="airtable-embed airtable-dynamic-height"
-        src="https://airtable.com/embed/shrePn1hzEaEzM92c?backgroundColor=cyan"
+        src={`https://airtable.com/embed/shrePn1hzEaEzM92c?backgroundColor=cyan&prefill_Currency=BGN&prefill_Completed%20Date=${formatDate(new Date())}`}
         width="100%"
         height="932"
         title="add-expense"
@@ -63,9 +63,10 @@ const Routes = () => {
       element: <ImportFromRevolut />,
     },
     {
+      path: '*',
       element: <Home />,
     },
-  ]);
+  ], process.env.REACT_APP_PUBLIC_URL);
 
   return routes;
 };
@@ -82,8 +83,24 @@ const App = () => {
           <Routes />
         </Router>
       </div>
+      <h5>Footer @ 2021 KK</h5>
     </AirtableContext.Provider>
   );
 };
+
+function formatDate(date) {
+  var d = new Date(date),
+      month = '' + (d.getMonth() + 1),
+      day = '' + d.getDate(),
+      year = d.getFullYear();
+
+  if (month.length < 2)
+      month = '0' + month;
+  if (day.length < 2)
+      day = '0' + day;
+
+  return [year, month, day].join('-');
+}
+
 
 export default App;
