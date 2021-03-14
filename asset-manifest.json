@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "https://kanevk.github.io/expense-it/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "https://kanevk.github.io/expense-it/static/js/main.696230c8.chunk.js",
-    "main.js.map": "https://kanevk.github.io/expense-it/static/js/main.696230c8.chunk.js.map",
+    "main.js": "https://kanevk.github.io/expense-it/static/js/main.b0329090.chunk.js",
+    "main.js.map": "https://kanevk.github.io/expense-it/static/js/main.b0329090.chunk.js.map",
     "runtime-main.js": "https://kanevk.github.io/expense-it/static/js/runtime-main.e8102d64.js",
     "runtime-main.js.map": "https://kanevk.github.io/expense-it/static/js/runtime-main.e8102d64.js.map",
     "static/js/2.f9155dfe.chunk.js": "https://kanevk.github.io/expense-it/static/js/2.f9155dfe.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.e8102d64.js",
     "static/js/2.f9155dfe.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.696230c8.chunk.js"
+    "static/js/main.b0329090.chunk.js"
   ]
 }
