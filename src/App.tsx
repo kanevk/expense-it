@@ -66,7 +66,7 @@ const Routes = () => {
       path: '*',
       element: <Home />,
     },
-  ], process.env.REACT_APP_PUBLIC_URL);
+  ], process.env.REACT_APP_BASE_URL);
 
   return routes;
 };

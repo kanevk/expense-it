@@ -1,5 +1,4 @@
 import React, { useEffect, useState } from "react";
-import { Link } from "react-router-dom";
 import { useAirtable } from "./AirtableContext";
 import { Header } from "./Header";
 
@@ -15,7 +14,7 @@ const Home = () => {
       console.log(foo);
       setCharts(foo);
     })();
-  }, [setCharts, chartsTable]);
+  }, []);
 
   return (
     <div
