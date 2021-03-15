@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "https://kanevk.github.io/expense-it/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "https://kanevk.github.io/expense-it/static/js/main.b0329090.chunk.js",
-    "main.js.map": "https://kanevk.github.io/expense-it/static/js/main.b0329090.chunk.js.map",
-    "runtime-main.js": "https://kanevk.github.io/expense-it/static/js/runtime-main.e8102d64.js",
-    "runtime-main.js.map": "https://kanevk.github.io/expense-it/static/js/runtime-main.e8102d64.js.map",
-    "static/js/2.f9155dfe.chunk.js": "https://kanevk.github.io/expense-it/static/js/2.f9155dfe.chunk.js",
-    "static/js/2.f9155dfe.chunk.js.map": "https://kanevk.github.io/expense-it/static/js/2.f9155dfe.chunk.js.map",
-    "static/js/3.0417a7dc.chunk.js": "https://kanevk.github.io/expense-it/static/js/3.0417a7dc.chunk.js",
-    "static/js/3.0417a7dc.chunk.js.map": "https://kanevk.github.io/expense-it/static/js/3.0417a7dc.chunk.js.map",
-    "index.html": "https://kanevk.github.io/expense-it/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "https://kanevk.github.io/expense-it/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.f9155dfe.chunk.js.LICENSE.txt": "https://kanevk.github.io/expense-it/static/js/2.f9155dfe.chunk.js.LICENSE.txt"
+    "main.css": "/expense-it/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/expense-it/static/js/main.e00645c1.chunk.js",
+    "main.js.map": "/expense-it/static/js/main.e00645c1.chunk.js.map",
+    "runtime-main.js": "/expense-it/static/js/runtime-main.225f813d.js",
+    "runtime-main.js.map": "/expense-it/static/js/runtime-main.225f813d.js.map",
+    "static/js/2.d6d6fdb5.chunk.js": "/expense-it/static/js/2.d6d6fdb5.chunk.js",
+    "static/js/2.d6d6fdb5.chunk.js.map": "/expense-it/static/js/2.d6d6fdb5.chunk.js.map",
+    "static/js/3.0417a7dc.chunk.js": "/expense-it/static/js/3.0417a7dc.chunk.js",
+    "static/js/3.0417a7dc.chunk.js.map": "/expense-it/static/js/3.0417a7dc.chunk.js.map",
+    "index.html": "/expense-it/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/expense-it/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.d6d6fdb5.chunk.js.LICENSE.txt": "/expense-it/static/js/2.d6d6fdb5.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.e8102d64.js",
-    "static/js/2.f9155dfe.chunk.js",
+    "static/js/runtime-main.225f813d.js",
+    "static/js/2.d6d6fdb5.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.b0329090.chunk.js"
+    "static/js/main.e00645c1.chunk.js"
   ]
 }
